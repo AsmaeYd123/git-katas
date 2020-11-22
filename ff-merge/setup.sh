@@ -9,6 +9,6 @@ make-exercise-repo
 touch greeting.txt
 git add greeting.txt
 git commit -m "Add file greeting.txt"
-echo "hello" > greeting.txt
+echo "HELLO" > greeting.txt
 git add greeting.txt
 git commit -m "Add content to greeting.txt"
